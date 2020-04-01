@@ -22,6 +22,7 @@
         * [Mevcut sistem vs kapitalizm](#mevcut-sistem-vs-kapitalizm)
     * [Tarihe notlar, neler yasandi.](#tarihe-notlar-neler-yasandi)
 * [Kaynaklar](#kaynaklar)
+    * [Projeler](#projeler)
     * [Begendigim paylasimlar](#begendigim-paylasimlar)
     * [Pandemic ile ilgili kitaplar](#pandemic-ile-ilgili-kitaplar)
 
@@ -97,6 +98,12 @@ Onun icin medyanin bu soylemi degistirmesinin yararli olacagini dusunuyorum.
  
 
 ## Kaynaklar
+
+### Projeler   
+
+[ Awesome coronavirus ]( https://github.com/soroushchehresa/awesome-coronavirus ) sayfasinda korona ile ilgili yapilmis projelerin listesini bulabilirsiniz. 
+
+Ayni sekilde [ coronavirus apps ]( https://github.com/abuuzayr/coronavirus-apps ) sayfasinda benzer bir liste mevcut.
 
 ### Begendigim paylasimlar  
 
