@@ -9,7 +9,7 @@
     * [Neden yaziyorum? Kimim? Uzmanligim nedir?](#neden-yaziyorum-kimim-uzmanligim-nedir)
 * [Karantina](#karantina)
     * [Karantina hastaligin yayilmasinin onluyor mu?](#karantina-hastaligin-yayilmasinin-onluyor-mu)
-    * [Maske kullanimi ne kadar etkili?](#maske-kullanimi-ne-kadar-etkili)
+    * [Maske kullanimi etkili mi?](#maske-kullanimi-etkili-mi)
     * [Korona yuzunden toplamda kac kisi olecek?](#korona-yuzunden-toplamda-kac-kisi-olecek)
     * [En iyi ve en kotu senaryo arasindaki fark ne kadar?](#en-iyi-ve-en-kotu-senaryo-arasindaki-fark-ne-kadar)
     * [curve degistirmek kac kisinin hayatini kurtarabilir?](#curve-degistirmek-kac-kisinin-hayatini-kurtarabilir)
@@ -43,9 +43,6 @@ Paylasmaya deger bulduklarimi, aklima yatan cevaplari kaynaklariyla birlikte anl
 Yapacaginiz her turlu geri donus bu dokumani zengilestirecegini dusunuyorum.
 Onun icin simdiden tesekkur ederim.
 
-
-
-
 ### Neden yaziyorum? Kimim? Uzmanligim nedir? 
 
 **Onemli: Herhangi bir uzmanligim yok.**
@@ -62,7 +59,27 @@ Ama asil amacim bilgi sahibi olmak, arastirma yapmak, ogrenmek.
 ## Karantina 
 
 ### Karantina hastaligin yayilmasinin onluyor mu? 
-### Maske kullanimi ne kadar etkili?
+### Maske kullanimi etkili mi?
+
+Medyada doktorlarin "maske sizi korumaz, sadece baskalarina bulasmasini onler" dediklerini duydum. 
+Hatta anneannemden de ayni soylemi duydum.
+Dunya bu konuda ne diyor, gercek etkisinin ne oldugunu arastirmadim.
+Ama onerme kendi icinde celiskili oldugunu dusunuyorum.
+
+Onemli olan virusun yayilmasini onlemmek.
+Kisinin kendi veya baskalarinin sagligini dusunerek maske kullanmasi bir sey degistirmez. 
+Onleyici bir etkisi varsa her kosulda kullamini tavsiye etmek icin gereklidir.
+Kisilerin baskalarini korudugunu bilmelerine gerek yoktur. 
+
+Ayrica elimizi yuzumuzden uzak tutmak gerektigini biliyoruz. 
+Maske elinizi otomatik olarak agzinizdan uzaklastiriyor. 
+Yani filtre gorevinden ziyade sadece mekanik olarak dahi bir koruma sagliyor. 
+Onun icin medyanin bu soylemi degistirmesinin yararli olacagini dusunuyorum.
+
+[![Dont touch your face](./img/dont-touch-your-face.jpg )]( https://www.youtube.com/watch?v=ci3Mc_qgbFk )
+
+
+
 ### Korona yuzunden toplamda kac kisi olecek? 
 ### En iyi ve en kotu senaryo arasindaki fark ne kadar?
 ### curve degistirmek kac kisinin hayatini kurtarabilir?
