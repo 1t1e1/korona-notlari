@@ -13,6 +13,9 @@
     * [Korona yuzunden toplamda kac kisi olecek?](#korona-yuzunden-toplamda-kac-kisi-olecek)
     * [En iyi ve en kotu senaryo arasindaki fark ne kadar?](#en-iyi-ve-en-kotu-senaryo-arasindaki-fark-ne-kadar)
     * [curve degistirmek kac kisinin hayatini kurtarabilir?](#curve-degistirmek-kac-kisinin-hayatini-kurtarabilir)
+* [Pandemik](#pandemik)
+    * [Asinin veya ilacin  bulunmasi curve nasil etkiler?](#asinin-veya-ilacin--bulunmasi-curve-nasil-etkiler)
+    * [Sicak havalari herseyi cozecek mi?](#sicak-havalari-herseyi-cozecek-mi)
 * [Ulkeler, sistemsel cozumler](#ulkeler-sistemsel-cozumler)
     * [Cin gercekten basarili miydi?](#cin-gercekten-basarili-miydi)
 * [Koronadan sonra hayat](#koronadan-sonra-hayat)
@@ -85,6 +88,10 @@ Onun icin medyanin bu soylemi degistirmesinin yararli olacagini dusunuyorum.
 ### En iyi ve en kotu senaryo arasindaki fark ne kadar?
 ### curve degistirmek kac kisinin hayatini kurtarabilir?
 
+## Pandemik
+
+### Asinin veya ilacin  bulunmasi curve nasil etkiler?
+### Sicak havalari herseyi cozecek mi?
 ## Ulkeler, sistemsel cozumler
 
 ### Cin gercekten basarili miydi?
