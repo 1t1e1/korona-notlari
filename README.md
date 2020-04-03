@@ -10,20 +10,7 @@
 * [Karantina](#karantina)
     * [Karantina hastaligin yayilmasinin onluyor mu?](#karantina-hastaligin-yayilmasinin-onluyor-mu)
     * [Maske kullanimi etkili mi?](#maske-kullanimi-etkili-mi)
-    * [Korona yuzunden toplamda kac kisi olecek?](#korona-yuzunden-toplamda-kac-kisi-olecek)
-    * [En iyi ve en kotu senaryo arasindaki fark ne kadar?](#en-iyi-ve-en-kotu-senaryo-arasindaki-fark-ne-kadar)
-    * [curve degistirmek kac kisinin hayatini kurtarabilir?](#curve-degistirmek-kac-kisinin-hayatini-kurtarabilir)
-* [Pandemik](#pandemik)
-    * [Asinin veya ilacin  bulunmasi curve nasil etkiler?](#asinin-veya-ilacin--bulunmasi-curve-nasil-etkiler)
-    * [Sicak havalari herseyi cozecek mi?](#sicak-havalari-herseyi-cozecek-mi)
-* [Ulkeler, sistemsel cozumler](#ulkeler-sistemsel-cozumler)
-    * [Cin gercekten basarili miydi?](#cin-gercekten-basarili-miydi)
-* [Koronadan sonra hayat](#koronadan-sonra-hayat)
-    * [Kapitelizimin sonu](#kapitelizimin-sonu)
-        * [Neden?](#neden)
-        * [Buyume neden onemli?](#buyume-neden-onemli)
-        * [Mevcut sistem vs kapitalizm](#mevcut-sistem-vs-kapitalizm)
-    * [Tarihe notlar, neler yasandi.](#tarihe-notlar-neler-yasandi)
+    * [Havalar isininca her sey duzelecek mi?](#havalar-isininca-her-sey-duzelecek-mi)
 * [Kaynaklar](#kaynaklar)
     * [Projeler](#projeler)
     * [Begendigim paylasimlar](#begendigim-paylasimlar)
@@ -63,6 +50,7 @@ Ama asil amacim bilgi sahibi olmak, arastirma yapmak, ogrenmek.
 ## Karantina 
 
 ### Karantina hastaligin yayilmasinin onluyor mu? 
+
 ### Maske kullanimi etkili mi?
 
 Medyada doktorlarin "maske sizi korumaz, sadece baskalarina bulasmasini onler" dediklerini duydum. 
@@ -82,27 +70,20 @@ Onun icin medyanin bu soylemi degistirmesinin yararli olacagini dusunuyorum.
 
 [![Dont touch your face](./img/dont-touch-your-face.jpg )]( https://www.youtube.com/watch?v=ci3Mc_qgbFk )
 
+### Havalar isininca her sey duzelecek mi? 
 
+Koronanin sik sik grip ile karsilastirilmasindan dolayi boyle bir yanildigi oldugunu dusunuyorum. 
+Oysa biraz cografi bilgisiyle bu onermeyi test etmek cok kolay. 
 
-### Korona yuzunden toplamda kac kisi olecek? 
-### En iyi ve en kotu senaryo arasindaki fark ne kadar?
-### curve degistirmek kac kisinin hayatini kurtarabilir?
+Mesela amerika [korona haritasina](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html) bakarak bunun 
+[sicakliktan]( https://www.google.com/search?q=us+temperature+map&sxsrf=ALeKk00_Mu8s48n_W5pYWjhyU0_e_NAEsQ:1585932243972&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjgtaiA2szoAhWEhHIEHcStAcgQ_AUoAXoECBcQAw&biw=1178&bih=558 ) 
+ziyade [nufus yogunluguyla]( https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States_by_population_density#/media/File:Map_of_states_showing_population_density_in_2013.svg ) dogru orantili bir dagilim gosterdigi goruluyor.
+Daha soguk olan eyaletlerde daha yogun olmasi veya daha sicak olan eyaletlerde koronanin daha az gorunmesi gibi bir durumla karsilasmiyoruz. 
+Bu nedenle sicaklikla alakasinin oldugunu dusunmuyorum. 
 
-## Pandemik
+Ayrica daha sicak olan ulkelerin datalarina bakilabilir. 
+Iran ekvatora bizden cok daha yakin bir ulke ama durumlari pek ic acici degil. 
 
-### Asinin veya ilacin  bulunmasi curve nasil etkiler?
-### Sicak havalari herseyi cozecek mi?
-## Ulkeler, sistemsel cozumler
-
-### Cin gercekten basarili miydi?
-
-## Koronadan sonra hayat 
-### Kapitelizimin sonu 
-#### Neden? 
-#### Buyume neden onemli? 
-#### Mevcut sistem vs kapitalizm  
-### Tarihe notlar, neler yasandi.
- 
 
 ## Kaynaklar
 
@@ -121,6 +102,7 @@ ve “eğri nasıl stabil olur” ) [en](https://www.washingtonpost.com/graphics
 
 Amerikada bir doktorun akademik makaleleri okuyup sunuyor,[ youtube kanali MEDCRAM ](https://www.youtube.com/user/MEDCRAMvideos)
 
+Makalelerle insanlari aydinlatmaya doktorlardan biri de Rishi Desai [youtube kanali Osmois ](https://www.youtube.com/channel/UCNI0qOojpkhsUtaQ4_2NUhQ/videos)
 
 ### Pandemic ile ilgili kitaplar
 
